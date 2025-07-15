@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-#git_intr0
-this is a demo repo
-
+what the Hellyionte
 what the helLebron James
 =======
 this is a reppo
